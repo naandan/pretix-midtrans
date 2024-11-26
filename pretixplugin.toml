@@ -1,0 +1,5 @@
+[plugin]
+package = "pretix-midtrans"
+modules = [ "pretix_midtrans" ]
+marketplace_name = "midtrans"
+
