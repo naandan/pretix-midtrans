@@ -13,6 +13,7 @@ maintainers = [
 ]
 
 dependencies = [
+    "midtransclient"
 ]
 
 [project.entry-points."pretix.plugin"]
